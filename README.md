@@ -4,9 +4,9 @@ Hello, I'm a Full Stack Developer with a diverse skill set that includes a range
 
 ## Skills
 
-- **Programming Languages:** Java, SQL (Mysql, Oracle, SQL Server)
-- **Frameworks:** Spring Framework (Spring Boot, Spring Batch)
-- **Technologies:** Git (GitHub, Bitbucket), SVN (TortoiseSVN), Weblogic, Wildfly, Jetbrains, Eclipse, Jira Software
+- **Programming Languages:** HTML, CSS, Javascript, Typescript, Java, SQL (Mysql, Oracle, SQL Server)
+- **Frameworks:** Angula 2+, Spring Framework
+- **Technologies:** NPM, Git (GitHub, Bitbucket), SVN (TortoiseSVN), Weblogic, Wildfly, Jetbrains, Eclipse, Jira Software
 - **Languages:** English (Level B2 certified by British Council), Spanish (Native)
 
 ## Projects
@@ -19,24 +19,16 @@ Hello, I'm a Full Stack Developer with a diverse skill set that includes a range
 
 - Individually crafted and built a microservice to proactively alert more than 27,000 client users about required information updates. This encompassed the creation of a Spring Batch schedule for streamlined email notifications and the establishment of a CRON job for automated, regular execution.
 
-### Incident Analysis and Customer Support
+### Development of Mobile-Friendly Web Application Home Page
 
-- Performed customer support tasks, where I received incident reports (bugs) in various applications and conducted incident analysis, followed by applying the necessary corrections. We operated under defined deadlines based on the severity of each incident.
+- Led the analysis and development efforts to introduce a new mobile-friendly home screen for the client's web application, enhancing the user experience on mobile devices.
 
 ## Professional Experience
 
 ### Backend Developer Jr. at FITIDEAS S.A.S.
-- March 2023–Present
+- Oct 2022–Present
 - Implementation of new projects for the client, participation in analysis, requirement gathering tasks, documentation, and project execution. Responsible for managing a team of three developers.
 
 ### Backend Developer Entry Level at FITIDEAS S.A.S.
-- July 2022–February 2023
+- Sep 2021–Oct 2022
 - Development of microservices using Java with Spring Boot. Report generation using tools such as iReport and SQL Server Reporting Service. Responsibilities included incident analysis and providing customer support.
-
-## Education
-
-- **JAVA BACKEND DEVELOPER**
-  - Oracle Next Education (ONE)
-
-- **JAVA FULLSTACK DEVELOPER**
-  - Fedesoft - SENA - NETEC
