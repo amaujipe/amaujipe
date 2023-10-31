@@ -1,6 +1,6 @@
 ## About Me
 
-Hello, I'm a Full Stack Developer with a diverse skill set that includes a range of programming languages such as HTML, CSS, JavaScript, TypeScript, Java, and SQL. I have experience with frameworks like Angular 2+ and the Spring Framework, along with a solid grasp of technologies like NPM, Git, SVN, and various server platforms. My language proficiency includes English at a B2 level, as certified by the British Council, and Spanish as my native language.
+Hello, I'm a FullStack Developer with a diverse skill set that includes a range of programming languages such as HTML, CSS, JavaScript, TypeScript, Java, and SQL. I have experience with frameworks like Angular 2+ and the Spring Framework, along with a solid grasp of technologies like NPM, Git, SVN, and various server platforms. My language proficiency includes English at a B2 level, as certified by the British Council, and Spanish as my native language.
 
 ## Skills
 
