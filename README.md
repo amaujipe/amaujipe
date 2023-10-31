@@ -1,6 +1,6 @@
 ## About Me
 
-I am a highly motivated and skilled professional with experience in software development and a strong background in Java and SQL. I specialize in developing microservices using Java with Spring Boot and have a strong understanding of various technologies and frameworks. I am fluent in both English and Spanish.
+Hello, I'm a Full Stack Developer with a diverse skill set that includes a range of programming languages such as HTML, CSS, JavaScript, TypeScript, Java, and SQL. I have experience with frameworks like Angular 2+ and the Spring Framework, along with a solid grasp of technologies like NPM, Git, SVN, and various server platforms. My language proficiency includes English at a B2 level, as certified by the British Council, and Spanish as my native language.
 
 ## Skills
 
